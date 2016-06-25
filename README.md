@@ -16,7 +16,7 @@ Maiores informações sobre o que deve ser desenvolvido estão no javadoc da pr�
 O arquivo terá o formato abaixo:
 
 ```
-codigo sequencial,codigo do cliente,codigo do Evento,tipo do evento,data inicio,data fim,codigo do antendente
+codigo sequencial, codigo do cliente, codigo do Evento, tipo do evento, data inicio, data fim, codigo do antendente
 ```
 
 Ex:
